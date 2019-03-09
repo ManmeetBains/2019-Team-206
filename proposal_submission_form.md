@@ -1,8 +1,8 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 206  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: ET's NU Analytics Geeks    
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### `YOUR TWO SENTENCES HERE`
@@ -17,11 +17,11 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Matthew Vanderbilt  |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Kara Lena           |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 | Wanghuizi Gao       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Manmeet Bains       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 05 | Lohith Potluri      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
