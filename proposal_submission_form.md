@@ -7,9 +7,6 @@
 #### Your team’s hackathon idea in TWO sentences:
 ##### Air pollution has been linked to learning disorders, memory problems, and depression, in addition to respiratory issues; these are all problems affecting youth today.
 ##### Creation of improved, cost-effective, real-time monitoring devices installed at smart educational centers will allow for dynamic geolocational modeling of indoor/outdoor air quality conditions.
-
-
-at forecasting for schools through the use of EPA data and low-cost, local, air monitors, will allow school to dynamically determine healthiest indoor and outdoor break times for students.
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - [EPA AirData Query https://aqs.epa.gov/api](https://aqs.epa.gov/api)
