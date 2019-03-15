@@ -16,13 +16,13 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Matthew Vanderbilt  |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 | Kara Lena           |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Manmeet Bains       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Shashi Bala Lnu     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 03 | Wanghuizi Gao       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 | Manmeet Bains       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Kara Lena           |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 05 | Lohith Potluri      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 06 | Matthew Vanderbilt  |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 07 | Jill                |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
