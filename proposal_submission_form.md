@@ -5,8 +5,8 @@
 #### Team Name: ET's NU Analytics Geeks    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### Air pollution has been linked to learning disorders, memory problems, and depression, in addition to respiratory issues; these are all problems affecting youth today.
-##### Creation of improved, cost-effective, real-time monitoring devices installed at smart educational centers will allow for dynamic geolocational modeling of indoor/outdoor air quality conditions.
+##### Air pollution has been linked to learning disorders, memory problems, and depression, in addition to respiratory issues, but there is insufficient data in San Diego County for finite air-quality monitoring.
+##### Creation of improved, cost-effective, real-time monitoring devices deployed at strategic locations will enable dynamic geolocational predictive analytics of indoor/outdoor air quality conditions for smart decision making.
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - [EPA AirData Query https://aqs.epa.gov/api](https://aqs.epa.gov/api)
@@ -14,18 +14,18 @@
 #### Team Coordinator GitHub Username: [mcvanderbilt](https://github.com/mcvanderbilt)
 
 #### Team Members
-| ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-| -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Manmeet Bains       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 | Shashi Bala Lnu     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 | Wanghuizi Gao       |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 | Kara Lena           |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 | Lohith Potluri      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 | Matthew Vanderbilt  |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 | Jill                |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| ## |        Name          | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
+| -- | :------------------- |        :---:         |            :---:            |        :---:         |                  :---:                    |
+| 01 | Manmeet Bains        |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Shashi Bala Lnu      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 | Akinyemi Fayankinnu  |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Wanghuizi Gao        |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 05 | Kara Lena            |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 06 | Lohith Sekhar Potluri|         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 07 | Kornkanok Somkul     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 08 | Matthew Vanderbilt   |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 09 |                      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 10 |                      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
   
 #### A question your team is answering (check a box OR provide a question your team created)
 
@@ -37,7 +37,7 @@
 **Smart Environment**
 - [x] How can San Diegans have access to better air quality indoors and outdoors?
 - [ ] How can we clean San Diego beaches effectively?
-- [x] Your question: How can we improve the precision of air quality data in San Diego while reducing our childrens' exposure time to harmful pollutants?
+- [x] Your question: How can we improve the precision of air quality data in San Diego to enable smart decision making for the City and its inhabitants?
 
 **Smart Education** 
 - [ ] How can schools better utilize their physical resources?
