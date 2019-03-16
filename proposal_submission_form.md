@@ -23,7 +23,7 @@
 | 05 | Kara Lena            |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 06 | Lohith Sekhar Potluri|         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 | Kornkanok Somkul     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 | Matthew Vanderbilt   |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 08 | Matthew C. Vanderbilt|         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
   
