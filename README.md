@@ -1,9 +1,12 @@
 # Big Data Hackathon for San Diego 2019
 1st Prize at Big Data Hackathon San Diego, 2019 at San Diego State University.
+
  Extracted data from US EPA (Environmental Protection Agency) API to gather information about air quality in
 San Diego county to understand pollution level and patterns.
+
  Work with Electronics and Software developers to develop an air quality monitoring device to gather air quality
 data, as US EPA has only 7 air quality monitoring stations spanning the entire county of San Diego.
+
  Device development is ongoing, as intentions are to distribute prototypes across San Diego primary school
 locations and gather data about air quality.
 
